@@ -24,7 +24,6 @@ This project provides a high-performance, adaptive FTP server and client written
   ```text
   pyftpdlib>=1.5.7
   psutil>=5.9.5
-````
 
 ## Setup Instructions
 
